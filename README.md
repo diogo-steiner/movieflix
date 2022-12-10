@@ -1,6 +1,6 @@
 #  MovieFlix
 
-![GitHub](https://img.shields.io/github/license/steinerstt/moviefliex?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/steinerstt/movieflix?style=for-the-badge)
 ![Website](https://img.shields.io/website?color=gree&label=Status&style=for-the-badge&up_message=finalizado&url=https://github.com/steinerstt/movieflix)
 <br><br>
 
