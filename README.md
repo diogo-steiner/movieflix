@@ -64,8 +64,6 @@ $ npm run dev
 
 ![Home](https://github.com/steinerstt/screenshots-projects/blob/main/movieflix/home.jpg?raw=true)
 
-<br>
-
 ![Página do filme](https://github.com/steinerstt/screenshots-projects/blob/main/movieflix/page-movie.jpg?raw=true)
 
 <br>
